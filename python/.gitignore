@@ -1,0 +1,7 @@
+site/dist/
+site/build/
+*.exe
+*.pyz
+*.pak
+*.dll
+/eng/cpp/cpp

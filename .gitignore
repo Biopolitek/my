@@ -1,6 +1,0 @@
-site/dist/
-site/build/
-*.exe
-*.pyz
-*.pak
-*.dll
